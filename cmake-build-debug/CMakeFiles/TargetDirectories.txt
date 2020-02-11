@@ -1,0 +1,3 @@
+/home/andrew/CLionProjects/mod2_classWork1(dictionary)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/CLionProjects/mod2_classWork1(dictionary)/cmake-build-debug/CMakeFiles/mod2_classWork1_dictionary_.dir
+/home/andrew/CLionProjects/mod2_classWork1(dictionary)/cmake-build-debug/CMakeFiles/edit_cache.dir

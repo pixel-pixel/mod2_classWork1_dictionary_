@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mod2_classWork1_dictionary_.dir/main.cpp.o  -o mod2_classWork1_dictionary_ 
